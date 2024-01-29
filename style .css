@@ -1,0 +1,203 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* @font-face {    
+    font-family:Righteous ;
+    src: url(/Righteous-Regular.ttf);
+} */
+
+
+h1{
+    font-size: 76px;
+    text-align: center;
+    color: #8e2de2;
+    margin-top:5%;
+    margin-bottom: 5%;
+}
+.alphabates {
+    width: 100%;
+    margin-bottom: 60px;
+    margin:0 auto;
+    text-align: center;
+}
+.alphabates a{
+    padding: 10px;
+    box-shadow: rgba(0,0,0,0.20)0px 3px 8px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.h2{
+    font-size: 30px;
+    font-family: serif;
+}
+.Alph{
+    font-size: 80px;
+    margin-right: 20px;
+    font-family: serif;
+}
+.Alph2{
+    font-size: 70px;
+    color: red;
+
+}
+.detail{
+    margin-bottom: 50px;
+}
+.tdata td{
+    padding: 50px;
+}
+.tdata{
+    border-collapse: separate;
+    border-spacing: 0 3em;
+    margin: 0 auto;
+    padding: 30px
+
+}
+tr{
+    padding: 70px;
+}
+
+.tdata tr{
+    box-shadow:rgba(0, 0, 0, 0.24) 0px 3px 8px; 
+    background-color: #fff;
+}
+.icon img{
+    width: 150px;
+}
+.Apple{
+    color:red;
+}
+.ball{
+    color:  #94e061;
+}
+.cat{
+    color: #f0ae5a;
+}
+.dog{
+    color:  #f4dbce;
+}
+.elephant{
+    color:  #828487;
+}
+.fish{
+    color: #ee9e68;
+}
+.giraffe{
+    color:#f1b646 ;
+}
+.hen{
+    color: #eb7e79;
+}
+.cream{
+    color:#ec81a7 ;
+}
+.jug{
+    color: #98bce5;
+}
+.Kite{
+    color: #60c5a1;
+}
+.lion{
+    color: #efa321;
+}
+.monkey{
+    color:#d2996f ;
+}
+.nest{
+    color: #c88828;
+}
+.orange{
+    color: #efa83c;
+}
+.Parrot{
+    color:#6bde56 ;
+}
+.queen{
+    color: #faee6e;
+}
+.rabbit{
+    color: #d3c7c7;
+}
+.sun{
+    color: #f4cd06;
+}
+.tree{
+    color: #499b15;
+}
+.umbrella{
+    color: #8ad7f8;
+}
+.van{
+    color: #e66e5c;
+}
+.Watch{
+    color: #f1b62e;
+}
+.Xrays{
+    color: #326799;
+}
+.yoyo{
+    color: #91dafe;
+}
+.zebra{
+    color: #52565b;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
